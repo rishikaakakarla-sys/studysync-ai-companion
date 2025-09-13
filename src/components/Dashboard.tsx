@@ -105,7 +105,7 @@ const Dashboard = () => {
 
       <div className="container mx-auto px-4 -mt-8">
         {/* Daily Goal Progress */}
-        <Card className="mb-8 shadow-card">
+        <Card className="mb-12 shadow-card">
           <CardHeader className="pb-3">
             <div className="flex items-center justify-between">
               <CardTitle className="flex items-center gap-2">
